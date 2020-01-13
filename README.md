@@ -23,7 +23,7 @@
 
 另外，有部分开源项目或出于美观，或不了解字体版权，采用了商用字体，这或许会带来不必要的麻烦。本项目也希望能以提供广泛的开源字体选择的方式避免这一问题。
 
-本集以中文字体为主要收录对象，但不可否认的是针对**日本、韩国、越南**等使用汉字的国家或地区设计开发的字体，在**中文语境下的字体排印**中具有重要意义，故一并收入。
+本集以中文字体为主要收录对象，但不可否认的是针对**日本、韩国、越南**等使用汉字的国家或地区设计开发的字体，在**中文语境下的字体排印**中具有重要意义，故一并收入。虽然某些情况下可利用这种差异感表现地域风格，但还是应该注意使用符合其他地区字形规范的字体时的环境。
 
 项目内容
 -------------------
@@ -47,8 +47,10 @@
 
 |  字体系列 | 开发者 | 字体 | 样式 | 字重数 | 授权协议 | 简 | 繁 | 日 | 韩 |
 |  :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
+|  思源字体 | Adobe | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ (tw/hk) | ✓ | ✓ |
 |   |  | [思源宋体](https://github.com/adobe-fonts/source-han-serif) | 宋 | 7 |  | ✓ | ✓ | ✓ | ✓ |
+|  台北黑体 | 瀚字铸造 | [台北黑体](https://sites.google.com/view/jtfoundry/zh-tw) | 黑 | 3 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ |  |  |
+|  昭明黑体 | Tamcy | [昭明黑体](https://tamcy.github.io/chiron-sans-hk/) | 黑 | 7 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ | ✓ |
 |  [花园明朝体](http://fonts.jp/hanazono/) | GlyphWiki | 花园明朝体 | 宋 | 1 | [Hanazono Font License & SIL Open Font License, Version 1.1](http://glyphwiki.org/wiki/Group:%E8%8A%B1%E5%9C%92%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-LICENSE) | ✓ | ✓ | ✓ | ✓ |
 |  文泉驿 | 「文泉驿」开发小组 | [文泉驿微米黑](http://wenq.org/wqy2/index.cgi?MicroHei) | 黑 | 1 | [GNU GPLv3 & Apache 2.0](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ | ✓ | ✓ | ✓ |
 |   |  | [文泉驿正黑](http://wenq.org/wqy2/index.cgi?ZenHei) |  | 1 | [GNU GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) | ✓ | ✓ | ✓ | ✓ |
@@ -66,7 +68,7 @@
 |   |  | 教育部标准宋体 | 宋 | 1 |  |  | ✓ |  |  |
 |  [IPA](http://ipafont.ipa.go.jp/#jp) | IPA 独立行政法人情報処理推進機構 | IPAex明朝 | 宋 | 1 | [IPA Font License Agreement V1.0](http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp) | ✓ | ✓ | ✓ | ✓ |
 |   |  | IPAexゴシック | 黑 | 1 |  | ✓ | ✓ | ✓ | ✓ |
-|  刻石录开源字型 | 一郎 | I.明体 | 宋 | 1 |  |  | ✓ | ✓ |  |
+|  I.字坊 | [I.字坊](https://github.com/ichitenfont) | I.明体 | 宋 | 1 | [IPA Font License Agreement V1.0](http://ipafont.ipa.go.jp/ipa_font_license_v1-html#jp) |  | ✓ | ✓ |  |
 |   |  | [I.颜体](http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94) | 楷 | 1 | [GNU GPLv2+](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) |  | ✓ |  |  |
 |   |  | [I.钢笔鹤体](http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94) | 艺 | 1 |  |  | ✓ |  |  |
 |  [瀨戸フォント](https://osdn.net/projects/setofont/) | 瀬戸のぞみ | 瀨戸フォント | 艺 | 1 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) | ✓ | ✓ | ✓ |  |
@@ -106,15 +108,13 @@
 |   |  | M+ M Type-1 |  | 7 |  |  |  | ✓ |  |
 |   |  | M+ M Type-2 |  | 7 |  |  |  | ✓ |  |
 |   |  | M+ MN Type-1 |  | 7 |  |  |  | ✓ |  |
-|  [851](http://www39.atpages.jp/yagoinienie/851fontpage.html) | 8 :51:22 pm | [851手書き雑フォント](http://www39.atpages.jp/yagoinienie/851fontpage.html) | 艺 | 2 | 自由修改分发，可商用，保留著作权 | ✓ | ✓ | ✓ | ✓ |
-|   |  | [851チカラヅヨク](http://www39.atpages.jp/yagoinienie/851ch-dz.html) |  | 1 |  |  |  | ✓ |  |
-|   |  | 851チカラヨワク |  | 1 |  |  |  | ✓ |  |
-|   |  | 851テガキカクット |  | 1 |  |  |  | ✓ |  |
-|   |  | 851レトロゴ  |  | 1 |  |  |  | ✓ |  |
-|  [fandol](https://ctan.org/pkg/fandol) | Clerk Ma | FandolSong | 宋 | 2 | [GNU GPLv3 font exception](https://www.gnu.org/licenses/gpl-3.0.en.html) | ✓ |  |  |  |
-|   |  | FandolHei | 黑 | 2 |  | ✓ |  |  |  |
-|   |  | FandolFang | 仿 | 1 |  | ✓ |  |  |  |
-|   |  | FandolKai | 楷 | 1 |  | ✓ |  |  |  |
+|  [851](https://pm85122.onamae.jp/85122font.html) | 8:51:22 pm | [851ゴチカクット](https://pm85122.onamae.jp/851Gkktt.html) | 艺 | 1 | 自由修改分发，可商用，保留著作权 |  |  | ✓ |  |
+|   |  | [851手書き雑フォント](https://pm85122.onamae.jp/851fontpage.html) |  | 1 |  | ✓ | ✓ | ✓ | ✓ |
+|   |  | [851チカラヅヨク](https://pm85122.onamae.jp/851ch-dz.html) |  | 2 |  |  |  | ✓ |  |
+|   |  | [851チカラヨワク](https://pm85122.onamae.jp/851ch-yw.html) |  | 1 |  |  |  | ✓ |  |
+|   |  | [851テガキカクット](https://pm85122.onamae.jp/851H_kktt.html)  |  | 1 |  |  |  | ✓ |  |
+|   |  | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  |  | 1 |  |  |  | ✓ |  |
+|   |  | [851マカポップ](https://pm85122.onamae.jp/851mkpop.html)  |  | 1 |  |  |  | ✓ |  |
 |  [Kazesawa](https://kazesawa.github.io/) | kazesawa | Kazesawa | 黑 | 6 | [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) |  |  | ✓ |  |
 |  [Sazanami](https://ja.osdn.net/projects/efont/) | 狩野宏樹 | Sazanami ゴシック | 黑 | 1 | BSD |  |  | ✓ |  |
 |   |  | Sazanami 明朝 | 宋 | 1 |  |  |  | ✓ |  |
